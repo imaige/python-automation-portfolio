@@ -1,0 +1,18 @@
+name,email,phone,city,signup_date,status
+John Smith,john.smith@example.com,+12025550101,New York,2026-01-05,Active
+Anna Brown,anna.brown@example.com,+447700900123,London,2026-02-05,Active
+Michael Lee,michael.lee@example.com,4155550123,San Francisco,2026-02-10,Inactive
+Sara Wilson,sara.wilson@example.com,+16465550198,New York,2026-03-01,Active
+David Chen,david.chen@example.com,4085550144,San Jose,2026-03-12,Active
+Elena Petrova,elena.petrova@example.com,+79991234567,Moscow,2026-03-12,Active
+Omar Ali,omar.ali@example.com,+971501234567,Dubai,2026-04-01,Pending
+Liam Davis,liam.davis@example.com,+353871234567,Dublin,2026-04-11,Active
+Maria Garcia,maria.garcia@example.com,+34612345678,Madrid,2026-04-12,Inactive
+Noah Martin,noah.martin@example.com,+33612345678,Paris,2026-04-15,Active
+Sophia Rossi,sophia.rossi@example.com,+393331234567,Rome,2026-04-15,Pending
+Ahmed Hassan,ahmed.hassan@example.com,+201001234567,Cairo,2026-05-01,Active
+Mia Taylor,mia.taylor@example.com,+61412345678,Sydney,2026-05-02,Active
+Lucas Silva,lucas.silva@example.com,+5511912345678,Sao Paulo,2026-05-03,Active
+Emma White,emma.white@example.com,+13125550119,Chicago,,Active
+James King,james.king@example.com,,Boston,2026-06-01,Inactive
+Sofia Lopez,sofia.lopez@example.com,+525512345678,Mexico City,2026-06-02,Pending
