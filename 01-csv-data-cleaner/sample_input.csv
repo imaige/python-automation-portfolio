@@ -1,0 +1,21 @@
+name,email,phone,city,signup_date,status
+  John Smith , JOHN.SMITH@Example.COM ,+1 (202) 555-0101, new york ,2026/01/05,Active
+John Smith,john.smith@example.com,2025550101,New York,2026-01-05, active 
+anna brown, Anna.Brown@example.com ,+44 7700 900123, london,05-02-2026,ACTIVE
+  Michael Lee,michael.lee@example.com,(415) 555-0123,san francisco ,2026-02-10,Inactive
+Sara Wilson , SARA.WILSON@example.com,+1 646 555 0198,NEW YORK,2026/03/01,Active
+David Chen,david.chen@example.com ,408-555-0144, san jose,2026-03-12,active
+Elena Petrova, ELENA.PETROVA@example.com,+7 999 123-45-67, moscow ,12/03/2026,Active
+Omar Ali,omar.ali@example.com,+971 50 123 4567, dubai,2026-04-01,Pending
+Anna Brown,anna.brown@example.com,44 7700 900123,London,2026-02-05,Active
+Liam Davis, liam.davis@example.com ,+353 87 123 4567, dublin,2026.04.11,Active
+Maria Garcia,maria.garcia@example.com,+34 612 345 678, madrid ,2026-04-12,Inactive
+Noah Martin,noah.martin@example.com,+33 6 12 34 56 78, paris,2026/04/15,Active
+Sophia Rossi, SOPHIA.ROSSI@example.com,+39 333 123 4567, rome ,15-04-2026,Pending
+Ahmed Hassan,ahmed.hassan@example.com,+20 100 123 4567, cairo,2026-05-01,Active
+Mia Taylor,mia.taylor@example.com,+61 412 345 678, sydney,2026/05/02,active
+Lucas Silva,lucas.silva@example.com,+55 11 91234-5678, sao paulo,2026-05-03,Active
+Elena Petrova ,elena.petrova@example.com,7 999 123 45 67,Moscow,2026-03-12,active
+ Emma White,EMMA.WHITE@example.com ,+1 312 555 0119, chicago,,Active
+James King,james.king@example.com,, boston ,2026-06-01,Inactive
+  Sofia Lopez  ,sofia.lopez@example.com,+52 55 1234 5678, mexico city ,2026-06-02,Pending
